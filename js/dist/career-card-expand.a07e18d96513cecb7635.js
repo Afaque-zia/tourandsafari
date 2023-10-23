@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["career-card-expand"],{35:function(c,a,e){"use strict";e.r(a),a.default=function(){document.querySelectorAll(".card.card--vacancy .card__toggle").forEach(c=>{var a=c.closest(".card--vacancy");c.addEventListener("click",()=>{a.classList.toggle("card--open")})})}}}]);
